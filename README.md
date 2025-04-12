@@ -121,9 +121,9 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 ```
 
 ## **OUTPUT**
-![Screenshot 2025-04-12 152242](https://github.com/user-attachments/assets/7efad76b-1392-4fde-9acb-8681ac9abf4d)
+![Screenshot 2025-04-12 154635](https://github.com/user-attachments/assets/bd4902f3-718d-4b52-aef8-4006af1310e7)
 
-![image](https://github.com/user-attachments/assets/ce96f540-deef-40d5-931b-d234e15ed30a)
+![Screenshot 2025-04-12 154651](https://github.com/user-attachments/assets/078b194b-41f8-450b-8e4a-071de848af1c)
 
 ## **Results**
    Hence, Linear Block Coding was successfully implemented and verified using Python.
